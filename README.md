@@ -1,4 +1,4 @@
-# Hi  👋, I'm KANTICHA
+# Hi there 👋, I'm KANTICHA
 
 ### 👧 About Me
 - 📍 Born in Sing Buri, Thailand
@@ -17,4 +17,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+</p>
+
+### Socials
+<p align="left">
+  <a href="https://github.com/khammuangkanticha-gif" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="40" height="40" alt="github" />
+  </a>
+  <a href="https://facebook.com/ใส่ชื่อเฟสบุ้คของคุณ" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="40" alt="facebook" />
+  </a>
+  <a href="https://instagram.com/ใส่ชื่อไอจีของคุณ" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram" />
+  </a>
 </p>
