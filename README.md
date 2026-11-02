@@ -1,4 +1,4 @@
-# Hi there 👋, I'm KANTICHA
+# Hi  👋, I'm KANTICHA
 
 ### 👧 About Me
 - 📍 Born in Sing Buri, Thailand
@@ -22,7 +22,7 @@
 ### Socials
 <p align="left">
   <a href="https://github.com/khammuangkanticha-gif" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="40" height="40" alt="github" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="github" />
   </a>
   <a href="https://facebook.com/ใส่ชื่อเฟสบุ้คของคุณ" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="40" alt="facebook" />
