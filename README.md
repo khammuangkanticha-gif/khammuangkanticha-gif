@@ -1,4 +1,4 @@
-# Hi there 👋, I'm KANTICHA
+# Hi  👋, I'm KANTICHA
 
 ### 👧 About Me
 - 📍 Born in Sing Buri, Thailand
